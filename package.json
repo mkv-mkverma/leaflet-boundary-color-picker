@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkv-mkverma/leaflet-boundary-color-picker.git"
+  },
   "license": "ISC"
 }
